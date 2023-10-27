@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @alisabouti
+- 👋 Hi, I’m ali
 - 👀 I’m interested in Nothing    
-- 🌱 I’m currently learning JS,HTML.CSS   
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c#   
+- 📫 How to reach me: alisabouti@gmail.com
 
 <!---
 alisabouti/alisabouti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
