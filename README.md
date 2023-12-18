@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ali
 - 👀 I’m interested in Nothing    
-- 🌱 I’m currently learning c#   
+- 🌱 I’m currently learning React  
 - 📫 How to reach me: alisabouti@gmail.com
 
 <!---
